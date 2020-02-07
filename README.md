@@ -1,3 +1,3 @@
 # git-essentials
 
-Some new stuff in here 
+Some other work in here by the stash branch
