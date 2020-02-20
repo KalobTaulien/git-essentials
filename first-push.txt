@@ -1,3 +1,5 @@
 This is the first push
 
 This is the second edit to this file
+
+All changes must be made in a branch and merged into master.
