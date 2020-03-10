@@ -16,7 +16,8 @@ If you decide to open a pull request and add some work to this repo, I ask that 
 
 ## Where to get this course:
 - [x] [Git for Everybody.com](https://gitforeverybody.com/git-essentials/)
-- [ ] Skillshare (coming soon!)
+- [x] [Git Essentials on Skillshare.com](https://skl.sh/2viPzB9)
+- [x] [Git Essentials on Udemy.com](https://www.udemy.com/course/git-and-github-tutorial/?referralCode=91132F334DCD0CCAA250)
 
 ## Docker (advanced devs only)
 If you want a completely new and clean environment to start learning git form scratch, you can use a Docker container. That's what I did for this course. Below are the steps to reproduce the same setup I used in the Git Essentials course:
