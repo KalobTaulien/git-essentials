@@ -1,1 +1,3 @@
-New branch file shows up in master and new-branch
+Hi Kalob,
+If I pass the LinkedIn Quizz on Git after this course, I'm going to give this course 5 stars. May I suggest you type your commands and progress through your content slower? It might be straightforward for you, not so much for us humble Udemy students.
+Cheers
