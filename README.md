@@ -1,4 +1,8 @@
 # Git Essentials / Git For Everybody
+# For commit
+# Fork and Modify
+Added this new line here.
+
 Visit [gitforeverybody.com](https://gitforeverybody.com/) for free tutorials and the full course.
 
 > This is a course to teach you how to use everyday git.
