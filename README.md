@@ -44,7 +44,7 @@ If you're opening a pull request against this repo, you should put your name (an
 
 * Kalob Taulien [(website)](https://gitforeverybody.com/)
 * _Insert your name and website here_
-*Name:rames_student from Udemy 
+*Name:rames_student from git essentials(kalob) Udemy 
 ___
 
 Course created by Kalob Taulien.
