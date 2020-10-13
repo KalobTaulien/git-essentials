@@ -1,3 +1,5 @@
+# Hi, I really like the course, thanks!
+
 # Git Essentials / Git For Everybody
 Visit [gitforeverybody.com](https://gitforeverybody.com/) for free tutorials and the full course.
 
