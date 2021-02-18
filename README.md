@@ -2,7 +2,8 @@
 Visit [gitforeverybody.com](https://gitforeverybody.com/) for free tutorials and the full course.
 
 > This is a course to teach you how to use everyday git.
-
+## The change for the exercise on fork and pull request
+This is the change for the exercises to be made.
 
 ## Contributing
 Welcome to my example Git Essentials repo! If you're here from the course, you have a few options:
