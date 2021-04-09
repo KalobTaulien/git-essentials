@@ -1,0 +1,1 @@
+Basic authentication using a password to Git is deprecated and will soon no longer work.  Visit https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information around suggested workarounds and removal dates.
