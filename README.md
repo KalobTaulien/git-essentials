@@ -47,4 +47,4 @@ If you're opening a pull request against this repo, you should put your name (an
 
 ___
 
-Course created by Kalob Taulien.
+Course created by Kalob Taulien tak už to snad mám ty mrdko
