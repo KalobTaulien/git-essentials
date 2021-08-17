@@ -1,0 +1,6 @@
+1. Forked a repo.
+2. Cloned it locally.
+3. Created a branch.
+4. Created a file.
+5. Pushed change to my new branch.
+6. Create a pull request to merge my changes to the author's main branch.
