@@ -44,7 +44,7 @@ If you're opening a pull request against this repo, you should put your name (an
 
 * Kalob Taulien [(website)](https://gitforeverybody.com/)
 * _Insert your name and website here_
-
+* Abdul Samed Walker (https://github.com/Myextraordinarylife)
 ___
 
 Course created by Kalob Taulien.
