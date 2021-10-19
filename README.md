@@ -47,4 +47,4 @@ If you're opening a pull request against this repo, you should put your name (an
 
 ___
 
-Course created 
+Course created by *Tomi
