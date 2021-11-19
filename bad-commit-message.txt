@@ -1,0 +1,2 @@
+Just need to make a pizza using javascript. Add an arrow function to cut it, make sure to sharpen the arrow! 
+Pass it some parameters of cheese and pineapples!
