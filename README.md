@@ -2,7 +2,8 @@
 Visit [gitforeverybody.com](https://gitforeverybody.com/) for free tutorials and the full course.
 
 > This is a course to teach you how to use everyday git.
-
+This is an addition to the README file that Kalob created for this tutorial.
+This is for lesson no.33 "How to open a pull request".
 
 ## Contributing
 Welcome to my example Git Essentials repo! If you're here from the course, you have a few options:
