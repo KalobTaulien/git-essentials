@@ -1,10 +1,10 @@
-# Git Essentials / Git For Everybody
+# Git Essentials / Git For Everybody - Edited by iwsugata for learning git
 Visit [gitforeverybody.com](https://gitforeverybody.com/) for free tutorials and the full course.
 
-> This is a course to teach you how to use everyday git.
+> This is a course to teach you how to use everyday git. (Really useful course)
 
 
-## Contributing
+## Contributing **
 Welcome to my example Git Essentials repo! If you're here from the course, you have a few options:
 
 1. Clone this repo to download all the code you see here (but you can't make changes and overwrite my code)
