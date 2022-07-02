@@ -5,7 +5,7 @@ Visit [gitforeverybody.com](https://gitforeverybody.com/) for free tutorials and
 
 
 ## Contributing
-Welcome to my example Git Essentials repo! If you're here from the course, you have a few options:
+Welcome to my example Git Essentials repo! This version of the file has been updated by Charles Hoffman. If you're here from the course, you have a few options:
 
 1. Clone this repo to download all the code you see here (but you can't make changes and overwrite my code)
 2. Fork this repo to add all this code to your GitHub profile _and then_ clone this repository from your account. Then you can make file changes and `git push` them to your forked version of this repo.
