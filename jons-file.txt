@@ -1,0 +1,7 @@
+github.com/KalobTaulien/git-essentials
+a star repo
+fork repo into my account
+clone to computer
+create a new branch git checkout -b new-branch-name
+add a file --z push it up tp your new brnach
+new pull request - sleect your branch and pout it in to master
