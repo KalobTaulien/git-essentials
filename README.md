@@ -39,10 +39,21 @@ export TERM=xterm-256color
 # Now you can run git commands as if you were on a brand new computer. You'll need to generate an SSH key and add it to GitHub.
 ```
 
+## Git commands cheat sheet
+* git clone
+* git branch
+* git log
+* git status
+* git add
+* git commit -m "Update"
+* git push origin master
+
+
 ## Contibutors
 If you're opening a pull request against this repo, you should put your name (and website, optional) in the list below!
 
 * Kalob Taulien [(website)](https://gitforeverybody.com/)
+* Dorothee Reinhard
 * _Insert your name and website here_
 
 ___
