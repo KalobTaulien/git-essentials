@@ -43,6 +43,7 @@ export TERM=xterm-256color
 If you're opening a pull request against this repo, you should put your name (and website, optional) in the list below!
 
 * Kalob Taulien [(website)](https://gitforeverybody.com/)
+* Kevin B [(website)](https://instagram.com/hislifeoftravel)
 * _Insert your name and website here_
 
 ___
