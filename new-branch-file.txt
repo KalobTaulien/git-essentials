@@ -1,1 +1,3 @@
 New branch file shows up in master and new-branch
+
+I fixed it the first time
