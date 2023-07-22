@@ -1,2 +1,1 @@
-This file is to move
-
+This file is to be moved
