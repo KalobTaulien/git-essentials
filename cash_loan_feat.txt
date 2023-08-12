@@ -1,0 +1,1 @@
+# This is a new cash loan feature wherein customer can use their cash loan for school payment.
