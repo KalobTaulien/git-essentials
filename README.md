@@ -2,6 +2,7 @@
 Visit [gitforeverybody.com](https://gitforeverybody.com/) for free tutorials and the full course.
 
 > This is a course to teach you how to use everyday git.
+This is a change made by the student on Sun Dec 17 16:08:48 EST 2023
 
 
 ## Contributing
