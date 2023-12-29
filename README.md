@@ -46,6 +46,6 @@ If you're opening a pull request against this repo, you should put your name (an
 * _Insert your name and website here_
 
 * Edward Acosta (I don't have a website)
-___
+* 12/29/23___
 
 Course created by Kalob Taulien.
