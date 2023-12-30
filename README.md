@@ -48,4 +48,6 @@ If you're opening a pull request against this repo, you should put your name (an
 * Edward Acosta (I don't have a website)
 * 12/29/23___
 
+checking out got diff command
+
 Course created by Kalob Taulien.
