@@ -1,0 +1,1 @@
+This is a new file created in a new branch after forking Kalob Taulien's git-essentials repository.
