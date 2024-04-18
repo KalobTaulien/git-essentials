@@ -1,0 +1,77 @@
+ls -la turns into dir on Windows
+
+cat turns into type on Windows
+
+
+-----------------------------------------------
+
+Renaming 1 file in cmd is very easy:
+In this example we have a sample1.txt and we want to change its name to sample2.txt:
+
+    in command prompt type:
+    c:\temp> ren sample1.txt sample2.txt [enter]
+
+
+------------------------------------------------
+how to find specific file
+
+
+C:>dir | findstr ".txt"
+
+----------------------------------------------
+to copy a file
+
+C:\Users\E039503\Desktop>copy zzz.txt zzz1.txt
+
+--------------------------
+creating new directory
+
+C:\Users\E039503\Desktop>mkdir Example
+
+----------------------------------------
+
+Create an empty file.
+
+
+C:\Users\E039503\Desktop>type nul > filename.txt
+
+---------------------------------------------------
+
+Opening text editor
+
+C:\Users\E039503\Desktop>notepad filename.txt
+
+-----------------------------------------------------
+
+Displays the contents of a file
+
+
+C:\Users\E039503\Desktop>type filename.txt
+
+------------------------
+remove/delete a file
+
+
+C:\Users\E039503\Desktop>del filename.txt
+
+----------------------------------
+ remove/delete all file in dirctory
+
+C:\Users\E039503\Desktop>del example
+C:\Users\E039503\Desktop\example\*, Are you sure (Y/N)? y
+
+---------------------------------------
+
+
+ remove/delete the dirctory
+
+C:\Users\E039503\Desktop>rmdir example
+
+----------------------------------
+
+
+
+
+
+
+
