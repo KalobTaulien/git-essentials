@@ -1,0 +1,66 @@
+This is my first pull request in github!
+
+Wanna see a stopwatch app in python?
+
+-------------------------------------------------------
+import tkinter as tk
+
+class Stopwatch:
+    def __init__(self, root):
+        self.root = root
+        self.root.title("Stopwatch")
+        
+        # Ensure the window is always on top
+        self.root.attributes('-topmost', True)
+
+        self.time_elapsed = 0
+        self.running = False
+
+        # Create display label
+        self.time_label = tk.Label(root, text="0:00:00", font=("Helvetica", 48))
+        self.time_label.pack()
+
+        # Create start button
+        self.start_button = tk.Button(root, text="Start", command=self.start, height=2, width=10)
+        self.start_button.pack(side="left")
+
+        # Create stop button
+        self.stop_button = tk.Button(root, text="Stop", command=self.stop, height=2, width=10)
+        self.stop_button.pack(side="left")
+
+        # Create reset button
+        self.reset_button = tk.Button(root, text="Reset", command=self.reset, height=2, width=10)
+        self.reset_button.pack(side="left")
+
+        # Update the display label every 100 ms
+        self.update_time()
+
+    def start(self):
+        if not self.running:
+            self.running = True
+
+    def stop(self):
+        if self.running:
+            self.running = False
+
+    def reset(self):
+        self.running = False
+        self.time_elapsed = 0
+        self.update_label()
+
+    def update_time(self):
+        if self.running:
+            self.time_elapsed += 1
+            self.update_label()
+        # Call this function again after 100 milliseconds
+        self.root.after(100, self.update_time)
+
+    def update_label(self):
+        minutes, seconds = divmod(self.time_elapsed // 10, 60)
+        hours, minutes = divmod(minutes, 60)
+        self.time_label.config(text=f"{hours}:{minutes:02}:{seconds:02}")
+
+# Create the main window
+root = tk.Tk()
+stopwatch = Stopwatch(root)
+root.mainloop()
