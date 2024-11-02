@@ -1,0 +1,3 @@
+This is a new file for my new branch
+
+This is for my course on Git and GitHub 
