@@ -44,6 +44,7 @@ If you're opening a pull request against this repo, you should put your name (an
 
 * Kalob Taulien [(website)](https://gitforeverybody.com/)
 * Valentino Gregorutti [(website)](https://github.com/ValentinoGregorutti/)
+
 * _Insert your name and website here_
 
 ___
